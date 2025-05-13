@@ -16,6 +16,8 @@ Download tracks and albums from [bandcamp.com](https://bandcamp.com/) for free a
 3. Open a terminal in the project directory
 4. Run: `npm i axios cheerio node-id3`
 5. Start the script with: `node index.js`
+6. Paste bandcamp link in the console
+7. Enjoy free music at no cost!
 
 ## 🏆 Credits
 
