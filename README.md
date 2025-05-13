@@ -4,13 +4,10 @@ Download tracks and albums from [bandcamp.com](https://bandcamp.com/) for free a
 
 ## 🔐 Features
 
-* Download tracks as `.mp3` files
-* Download full albums as `.mp3` files
-* Automatically tags album metadata
+* Download tracks and albums as `.mp3` files
+* Automatically tags ID3 metadata
 * Automatically creates folders for artists and albums
-* Download using album or track URLs
-* Checks for non-bandcamp URLs
-* Input a URL to download a specific track or album
+* Easy to understand
 
 ## ❓ How to use
 
